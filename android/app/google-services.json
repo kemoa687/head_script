@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "839259054814",
+    "firebase_url": "https://gyrored-dfca6-default-rtdb.firebaseio.com",
+    "project_id": "gyrored-dfca6",
+    "storage_bucket": "gyrored-dfca6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:839259054814:android:da83e78018da66dcd6184f",
+        "android_client_info": {
+          "package_name": "com.example.winapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDe-AwAry4Q_NqtQsGg6Q9kc8_SMx9kp9M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
